@@ -24,6 +24,16 @@
     <NuxtLayout>
       <NuxtPage />
     </NuxtLayout>
+    <footer class="footer footer-center p-4 bg-base-300 text-base-content">
+      <div>
+        <p>
+          Copyright © 2023 - All right reserved by
+          <a href="https://jedborseth.com" class="font-bold pb-2"
+            >Jed Borseth</a
+          >
+        </p>
+      </div>
+    </footer>
   </div>
 </template>
 <style>
